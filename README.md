@@ -75,18 +75,3 @@ I'm a passionate Software Developer with a growing expertise in **AI-driven appl
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/inavihs7161/github-readme-stats">
-    <img alt="Shivani's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=inavihs7161&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-  </a>
-  <a href="https://github.com/inavihs7161/github-readme-stats">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inavihs7161&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-  </a>
-</p>
-
-> 🌟 *Top languages reflect public repositories only. Private work not included.*
-
----
